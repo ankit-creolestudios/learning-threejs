@@ -1,0 +1,4 @@
+1. npm init
+2. npm install parcel -g
+3. npm install three
+npm install dat.gui
